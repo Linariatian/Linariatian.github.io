@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>用微薄之力影响教育 • Posts by &#34;摄影&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2023-03-22T06:51:02.000Z</updated>
+    <category term="教育" />
+    <category term="摄影" />
+    <entry>
+        <id>http://example.com/2023/03/22/%E5%85%89%E4%B9%8B%E5%9F%BA%E7%A1%80%206d102c934212443d8b37870795e48239/</id>
+        <title>摄影打光</title>
+        <link rel="alternate" href="http://example.com/2023/03/22/%E5%85%89%E4%B9%8B%E5%9F%BA%E7%A1%80%206d102c934212443d8b37870795e48239/"/>
+        <content type="html">&lt;h1 id=&#34;光之基础&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#光之基础&#34;&gt;#&lt;/a&gt; 光之基础&lt;/h1&gt;
+&lt;h1 id=&#34;以质感分类&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#以质感分类&#34;&gt;#&lt;/a&gt; 以质感分类：&lt;/h1&gt;
+&lt;h2 id=&#34;硬光&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#硬光&#34;&gt;#&lt;/a&gt; 硬光&lt;/h2&gt;
+&lt;p&gt;直射光，照射到人脸上时，投影很硬，立体感非常强&lt;/p&gt;
+&lt;h2 id=&#34;柔光&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#柔光&#34;&gt;#&lt;/a&gt; 柔光&lt;/h2&gt;
+&lt;p&gt;散射光，均匀柔和，投影模糊，不会有明显的敏感过度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;硬光可以转化为柔光：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一、漫反射&lt;/p&gt;
+&lt;p&gt;把灯光从人脸上移开，利用反光板（米波罗 = 泡沫板）反射到人脸上，反光板凹凸不平的的表面会使光向四面八方分散，发光面积变大，最后达到柔化的目的。&lt;/p&gt;
+&lt;p&gt;二、漫透射&lt;/p&gt;
+&lt;p&gt;加漫透射材料（柔光片，纺织部，柔纱，硫酸纸）&lt;/p&gt;
+&lt;p&gt;三、两种叠加（书式布光）&lt;/p&gt;
+&lt;p&gt;机位在正前方，灯从 45 度角的位置打在反光板，再让反射的光通过柔光片照射到人脸上&lt;/p&gt;
+&lt;aside&gt;
+💡 灯光离的越近，它所照亮的表面相对较小，每个表面都会获得更多的光线，这些光线相互作用会导致阴影和高光区域变得更加平滑，从而使光线更柔和，就越柔。离的越远，光线越聚拢，阴影越硬。直射的太阳没有云层遮挡的话打下来的就是硬光，所以拍摄一般不在正午。
+&lt;/aside&gt;
+&lt;h1 id=&#34;三点布光&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三点布光&#34;&gt;#&lt;/a&gt; 三点布光&lt;/h1&gt;
+&lt;p&gt;侧前方的 主光：较强的光源，一般放在人正前方侧 30～45 度角的位置，是整个画面的主要光源。&lt;/p&gt;
+&lt;p&gt;另一侧 辅光：比主光远弱一些填充脸上的阴影（主光源只能照亮被照物体的一面，而另一面则会形成明显的阴影。此时，如果使用补光源来照亮阴影部分，就可以使阴影变得更加柔和，而不是非常暗淡和突兀，从而使整个画面看起来更加平衡和自然。），使人脸自然（线条柔和可以拉近与观众的距离感）&lt;/p&gt;
+&lt;p&gt;背后的 轮廓光：硬光，较弱的光源，把人和背景分离开，一般放在侧后方，要高于摄影机的位置。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;轮廓光通常是指一个灯光从被摄物体的侧面或背面照射过来，用来烘托出被摄物体的轮廓，让其更加明显。由于轮廓光与主光源方向相反，因此它不会对主光源的阴影产生影响，而只是在被摄物体的轮廓部分产生亮度上的区别，从而增加被摄物体的层次感和立体感。&lt;/p&gt;
+&lt;p&gt;轮廓光可以是硬光或软光，其效果取决于灯光的大小、形状、强度和距离等因素。通常，为了获得较好的轮廓效果，轮廓光应该尽量从侧面照射，而且其强度应该与主光源相当或略低。在拍摄人物时，轮廓光还可以用于突出人物的发型和脸部轮廓，增强人物的立体感。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="摄影" />
+        <updated>2023-03-22T06:51:02.000Z</updated>
+    </entry>
+</feed>
