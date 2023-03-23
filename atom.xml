@@ -4,6 +4,8 @@
     <title>用微薄之力影响教育</title>
     <link href="http://example.com" />
     <updated>2023-03-22T15:18:04.153Z</updated>
+    <category term="摄影" />
+    <category term="教育" />
     <entry>
         <id>http://example.com/2023/03/22/hello-world/</id>
         <title>Hello World</title>
@@ -23,5 +25,53 @@
 &lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
 </content>
         <updated>2023-03-22T15:18:04.153Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2023/03/22/%E5%85%89%E4%B9%8B%E5%9F%BA%E7%A1%80/</id>
+        <title>摄影打光</title>
+        <link rel="alternate" href="http://example.com/2023/03/22/%E5%85%89%E4%B9%8B%E5%9F%BA%E7%A1%80/"/>
+        <content type="html">&lt;h1 id=&#34;光之基础&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#光之基础&#34;&gt;#&lt;/a&gt; 光之基础&lt;/h1&gt;
+&lt;h1 id=&#34;以质感分类&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#以质感分类&#34;&gt;#&lt;/a&gt; 以质感分类：&lt;/h1&gt;
+&lt;h2 id=&#34;硬光&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#硬光&#34;&gt;#&lt;/a&gt; 硬光&lt;/h2&gt;
+&lt;p&gt;直射光，照射到人脸上时，投影很硬，立体感非常强&lt;/p&gt;
+&lt;h2 id=&#34;柔光&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#柔光&#34;&gt;#&lt;/a&gt; 柔光&lt;/h2&gt;
+&lt;p&gt;散射光，均匀柔和，投影模糊，不会有明显的敏感过度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;硬光可以转化为柔光：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一、漫反射&lt;/p&gt;
+&lt;p&gt;把灯光从人脸上移开，利用反光板（米波罗 = 泡沫板）反射到人脸上，反光板凹凸不平的的表面会使光向四面八方分散，发光面积变大，最后达到柔化的目的。&lt;/p&gt;
+&lt;p&gt;二、漫透射&lt;/p&gt;
+&lt;p&gt;加漫透射材料（柔光片，纺织部，柔纱，硫酸纸）&lt;/p&gt;
+&lt;p&gt;三、两种叠加（书式布光）&lt;/p&gt;
+&lt;p&gt;机位在正前方，灯从 45 度角的位置打在反光板，再让反射的光通过柔光片照射到人脸上&lt;/p&gt;
+&lt;aside&gt;
+💡 灯光离的越近，它所照亮的表面相对较小，每个表面都会获得更多的光线，这些光线相互作用会导致阴影和高光区域变得更加平滑，从而使光线更柔和，就越柔。离的越远，光线越聚拢，阴影越硬。直射的太阳没有云层遮挡的话打下来的就是硬光，所以拍摄一般不在正午。
+&lt;/aside&gt;
+&lt;h1 id=&#34;三点布光&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三点布光&#34;&gt;#&lt;/a&gt; 三点布光&lt;/h1&gt;
+&lt;p&gt;侧前方的 主光：较强的光源，一般放在人正前方侧 30～45 度角的位置，是整个画面的主要光源。&lt;/p&gt;
+&lt;p&gt;另一侧 辅光：比主光远弱一些填充脸上的阴影（主光源只能照亮被照物体的一面，而另一面则会形成明显的阴影。此时，如果使用补光源来照亮阴影部分，就可以使阴影变得更加柔和，而不是非常暗淡和突兀，从而使整个画面看起来更加平衡和自然。），使人脸自然（线条柔和可以拉近与观众的距离感）&lt;/p&gt;
+&lt;p&gt;背后的 轮廓光：硬光，较弱的光源，把人和背景分离开，一般放在侧后方，要高于摄影机的位置。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;轮廓光通常是指一个灯光从被摄物体的侧面或背面照射过来，用来烘托出被摄物体的轮廓，让其更加明显。由于轮廓光与主光源方向相反，因此它不会对主光源的阴影产生影响，而只是在被摄物体的轮廓部分产生亮度上的区别，从而增加被摄物体的层次感和立体感。&lt;/p&gt;
+&lt;p&gt;轮廓光可以是硬光或软光，其效果取决于灯光的大小、形状、强度和距离等因素。通常，为了获得较好的轮廓效果，轮廓光应该尽量从侧面照射，而且其强度应该与主光源相当或略低。在拍摄人物时，轮廓光还可以用于突出人物的发型和脸部轮廓，增强人物的立体感。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="摄影" />
+        <updated>2023-03-22T06:51:02.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2023/03/22/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <title>教育是我们成为世界一流的前提</title>
+        <link rel="alternate" href="http://example.com/2023/03/22/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;h1 id=&#34;孩子的未来取决于大人的想法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#孩子的未来取决于大人的想法&#34;&gt;#&lt;/a&gt; 孩子的未来取决于大人的想法&lt;/h1&gt;
+&lt;p&gt;Created: March 9, 2023 11:22 AM&lt;/p&gt;
+&lt;p&gt;曾经有一个叫吉莉安的 8 岁英国小女孩，上学迟到，上课捣乱，学习成绩糟糕得一塌糊涂。最让老师不能忍受的是，她是典型的课堂破坏者。学校无奈找到了吉莉安的父母，认为吉莉安存在某种学习障碍，建议应该去那种专门为此设置的特殊学校就读。&lt;/p&gt;
+&lt;p&gt;吉莉安的母亲带着孩子去了一家心理诊所。在诊疗室里，她坐在一旁的座位上，听着母亲对医生滔滔不绝地抱怨着吉莉安在学校里遇到的种种问题，。医生听完她母亲讲完了孩子所有的毛病以后，坐到吉莉安身旁，说：“吉莉安，我认真听了你母亲所说的每一句话，我需要和她单独聊一下。不会花太久时间。”&lt;/p&gt;
+&lt;p&gt;医生将吉莉安的母亲带出诊室，把吉莉安一人留在屋里，并随手打开了办公桌上的收音机。当音乐响起时，吉莉安立即站了起来，伴着收音机里的音乐在房间里走来走去，不一会儿，居然翩翩起舞起来。&lt;/p&gt;
+&lt;p&gt;医生和她母亲透过玻璃看了一会，医生转过身对吉莉安母亲说：“你女儿没病。她只是一个舞者。把她送到一所舞蹈学校去就好。”&lt;/p&gt;
+&lt;p&gt;女孩的母亲听从了医生的建议，将小女孩送到了一个舞蹈学校。后来，吉莉安加入了伦敦皇家芭蕾舞团，成了一个独舞表演家，并在全世界巡演。今天，这个当年 “有问题” 的小女孩吉莉安・林恩，成为世界上最有才华的舞蹈创作家，她创作了一系列世界闻名的音乐舞台剧作品《猫》、《歌剧魅影》，带给无数人快乐。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc29odS5jb20vYS8yOTM5NTAwNjhfNjU5MDEx&#34;&gt;孩子，请相信自己的力量_吉莉安&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="教育" />
+        <updated>2023-03-22T05:07:09.000Z</updated>
     </entry>
 </feed>
